@@ -8,13 +8,13 @@ close all;
 gamma = 4
 
 % Location of picture to analyze
-picture = "C:\Users\mahar\Downloads\test_0026.tif"
+picture = "C:\Users\oneal\VS Code Stuff\Laser_Data_Experimentation\shot15591g1Brightened(1).jpg"
 
 % How far away from the curve will an outlier data point be replaced
 maxOutlier = 3
 
 % Location of the x200 matrix, used as import
-x200Location = "C:\Users\mahar\Downloads\200x200.xlsx"
+x200Location = "C:\Users\oneal\VS Code Stuff\Laser_Data_Experimentation\200x200.xlsx"
 
 % Whether or not to rotate the image 180 degrees
 rotate = true
